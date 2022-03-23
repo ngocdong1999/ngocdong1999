@@ -1,16 +1,28 @@
-### Hi there 👋
+# <p align="center">Hi  I'm Dong, I am web developer !!!</p>
 
-<!--
-**ngocdong1999/ngocdong1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<a href="https://github.com/ngocdong1999">
+	<img src="https://avatars.githubusercontent.com/u/57401513?s=40&v=4" width = "200" alt="john1805">
+	</a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JS
+  const getAboutMe = ()=>{
+      return {
+        basicLanguage: "C, PHP",
+        mainLanguage:"Javascript",
+        frontend:"Reactjs, Boostrap, Material UI...",
+        backend:"Nodejs, ExpressJs, PHP",
+        database:"Mysql",
+        learning:"Typescript, MongoDB ....",
+      }
+  }
+```
+
+
+
+<hr>
+
+<p align="center"><img src="https://c.tenor.com/bQOub9mu7LcAAAAd/ji-typing.gif" alt="Synthwave" height="300" width="500"></p>
